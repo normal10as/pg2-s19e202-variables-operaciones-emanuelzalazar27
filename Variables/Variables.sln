@@ -3,9 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.572
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Variables_consola", "Variables_consola\Variables_consola.vbproj", "{D1B68795-05B1-498F-9EF2-23996E0BEC4F}"
+Project("{778DAE3C-4631-46EA-AA77-85C1314464D9}") = "Variables_consola", "Variables_consola\Variables_consola.vbproj", "{D1B68795-05B1-498F-9EF2-23996E0BEC4F}"
 EndProject
-Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Variables_tipos", "Variables_tipos\Variables_tipos.vbproj", "{001338D9-F61C-46A2-8107-04E88F277344}"
+Project("{778DAE3C-4631-46EA-AA77-85C1314464D9}") = "Variables_tipos", "Variables_tipos\Variables_tipos.vbproj", "{001338D9-F61C-46A2-8107-04E88F277344}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Concatenacion", "Concatenacion\Concatenacion.vbproj", "{BC465AF3-772F-4851-997B-F119C3A14744}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{001338D9-F61C-46A2-8107-04E88F277344}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{001338D9-F61C-46A2-8107-04E88F277344}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{001338D9-F61C-46A2-8107-04E88F277344}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BC465AF3-772F-4851-997B-F119C3A14744}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC465AF3-772F-4851-997B-F119C3A14744}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC465AF3-772F-4851-997B-F119C3A14744}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC465AF3-772F-4851-997B-F119C3A14744}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
